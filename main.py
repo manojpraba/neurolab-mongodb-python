@@ -10,3 +10,5 @@ dataBase = client["neurolabDB"]
 collection = dataBase['Products']
 
 # Sample data
+
+hash(obj)
