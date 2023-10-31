@@ -11,4 +11,4 @@ collection = dataBase['Products']
 
 # Sample data
 
-hash(obj)
+###hash(obj)
